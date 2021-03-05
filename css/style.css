@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 20px;
+}
+
+#Resposta{
+    
+    width: 50%;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+#Resposta p{
+    margin-top: 43%;
+}
+
+.information p{
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+
+
+h1{
+    font-style: italic;
+}
+
